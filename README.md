@@ -1,7 +1,6 @@
 # Design, Fabrication, and Flight Testing of a Fixed-Wing UAV
 
 ## Project Overview
-.
 
 The aircraft was not limited to a CAD study. The team completed the full engineering cycle:
 
