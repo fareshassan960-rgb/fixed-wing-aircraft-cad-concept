@@ -1,8 +1,7 @@
 # Design, Fabrication, and Flight Testing of a Fixed-Wing UAV
 
 ## Project Overview
-
-This repository documents a complete **design-build-fly fixed-wing UAV project** developed by **Team Aeronautics Hercules** at the Institute of Space Technology, Islamabad, for the **DBFC 18 competition held at GIKI in 2024**.
+.
 
 The aircraft was not limited to a CAD study. The team completed the full engineering cycle:
 
@@ -191,27 +190,6 @@ The repository presents the complete team aircraft while distinguishing the proj
 - ArduPilot
 - Engineering drawing and performance-analysis tools
 
-## Suggested Repository Structure
-
-```text
-fixed-wing-uav-design-build-fly/
-├── README.md
-├── report/
-│   └── DBFC-18-design-report.pdf
-├── images/
-│   ├── final-aircraft-render.png
-│   ├── fabricated-aircraft.jpg
-│   ├── wing-fabrication.jpg
-│   ├── fuselage-fabrication.jpg
-│   └── testing.jpg
-├── cad/
-│   └── publishable-model-files
-└── analysis/
-    └── publishable-results
-```
-
-Only files that the team is permitted to publish should be included.
-
 ## Project Status
 
 **Completed:** design, analysis, CAD development, fabrication, assembly, testing, and competition preparation.
@@ -221,8 +199,6 @@ Only files that the team is permitted to publish should be included.
 **Fares Hassan**  
 Aerospace Engineering Graduate  
 Institute of Space Technology, Islamabad
-
-Project completed as a member of **Team Aeronautics Hercules**.
 
 LinkedIn:  
 https://www.linkedin.com/in/fares-hassan-177728273/
